@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "node js express server for myHeroes app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
